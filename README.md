@@ -10,7 +10,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * 🖥️  See my portfolio at [Chiranjeev Thomas](http://www.chiranjeevthomas.com)
 * 🚀  I'm currently working on [DevReferral](http://www.devreferral.com)
 * 🧠  I'm learning MongoDb | Next.Js | Express | React | Node.js
-* 🤝  I'm open to collaborating on M.E.R.N ( Commercial Projects )
+* 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial Projects )
 * ⚡  I love CATS ! ! 🐱
 
 ### Skills
