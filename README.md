@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been coding for the past 5 years. I started as a Backend Java Engineer at dDriven (A startup in Bengaluru, India) and later went on to work as a Full Stack Web Developer ( M.E.R.N stack ) at 3 Tech Startups that I founded.
 
 * 🌍  I'm based in Bengaluru, India
-* 🖥️  See my portfolio at [Chiranjeev Thomas](http://www.chiranjeevthomas.com)
+* 🖥️  Visit my Blog : [Chiranjeev Thomas](http://www.chiranjeevthomas.com)
 * 🚀  I'm currently working on [DevReferral](http://www.devreferral.com)
 * 🧠  I'm learning MongoDb | Next.Js | Express | React | Node.js
 * 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial )
