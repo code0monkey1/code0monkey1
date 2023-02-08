@@ -19,11 +19,10 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 **`Top Endorsement on Indorse:`** 
 <br/>
-<br/>
 *" Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all "*  
-
-[ Read My Code Quality Assessment Report ](https://bit.ly/3iTi5gZ)
  ---------------------------------------------------
+[ Read My Code Quality Assessment Report ](https://bit.ly/3iTi5gZ)
+
  
 ### Skills
 
