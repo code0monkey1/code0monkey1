@@ -18,7 +18,9 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 --------------------------------------------------------------------------
 
 **`Top Endoresment by Indorse :`** 
+<br/>
 *`Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all`*
+<br/>
  **[Coding Skill Assessment](https://bit.ly/3iTi5gZ)**
 --------------------------------------------------------------------------
 
