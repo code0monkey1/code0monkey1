@@ -14,9 +14,8 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial )
 * ⚡  I love CATS ! ! 🐱
 
-
 --------------------------------------------------------------------------
-[ Read My Code Quality Assessment Report ](https://bit.ly/3iTi5gZ)
+[ View My Code Quality Assessment Report ](https://bit.ly/3iTi5gZ)
 
 **`Top Endorsement on Indorse:`** 
 <br/>
