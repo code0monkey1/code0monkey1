@@ -15,10 +15,10 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * ⚡  I love CATS ! ! 🐱
 
 
-* Top Endoresment by Indorse *
-** ` Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all.` **
+**Top Endoresment by Indorse**
+*` Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all.`*
 
- *[Code Review Source](https://bit.ly/3iTi5gZ)*
+ **[Coding Skill Assessment](https://bit.ly/3iTi5gZ)**
 
 
 ### Skills
