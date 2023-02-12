@@ -18,7 +18,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 [ View My Code Quality Assessment Report ](https://bit.ly/3iTi5gZ)
 
-**`Top Endorsement on Indorse: Code Quality Review website`** 
+**`Top Endorsement on Indorse: ( Code Quality Review )`** 
 <br/>
 <br/>
 *“  Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all ”* 
