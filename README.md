@@ -48,6 +48,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  <a href="https://react-query-v3.tanstack.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="React Query" /></a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://www.cypress.io/images/layouts/navbar-brand.svg" width="36" height="36" alt="Cypress" /></a>
 </p>
 
 
