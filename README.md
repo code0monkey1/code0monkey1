@@ -53,7 +53,6 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
    <a href="https://blog.mallow-tech.com/2018/05/an-introduction-to-test-driven-development/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.1698153296.8118/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" width="36" height="36" alt="Test Driven Devlopment" /></a>
    <a href="https://jestjs.io/#:~:text=Jest%20is%20a%20JavaScript%20testing,extended%20to%20match%20your%20requirements." target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--S6Nn_hYs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fnnfif593kiswfmwwen.jpg" width="36" height="36" alt="Jest" /></a>
     <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://global-uploads.webflow.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" width="36" height="36" alt="GitHub Actions" /></a>
-</p>
     <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"><img src="https://handlebarsjs.com/images/handlebars_logo.png" width="36" height="36" alt="HandleBars" /></a>
 </p>
 
