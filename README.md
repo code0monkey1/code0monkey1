@@ -72,12 +72,14 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 <b>Top Repositories</b>
 
+
+
+<div width="100%" align="center">
  
- <a href="https://github.com/code0monkey1/markdown-noteapp-typescript" align="right">
+  <a href="https://github.com/code0monkey1/markdown-noteapp-typescript" align="right">
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=markdown-noteapp-typescript&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
  </a>
 
-<div width="100%" align="center">
  <a href="https://github.com/code0monkey1/fyle_backend" align="left">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=fyle_backend&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
  </a>
