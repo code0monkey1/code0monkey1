@@ -76,20 +76,20 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
  
  
    <a href="https://github.com/code0monkey1/fyle_backend" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=fyle_backend&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=fyle_backend&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
    </a>
  
-   <a href="https://github.com/code0monkey1/markdown-noteapp-typescript" align="right">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=markdown-noteapp-typescript&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
+   <a href="https://github.com/code0monkey1/markdown-noteapp-typescript" align="left">
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=markdown-noteapp-typescript&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
    </a>
 
    <a href="https://github.com/code0monkey1/-Data_Engineering-fragmaData2018" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=-Data_Engineering-fragmaData2018&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=-Data_Engineering-fragmaData2018&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
    </a>
 
 
-   <a href="https://github.com/code0monkey1/-Data_Engineering-FragmaData_Assignment_2017-TDD-followed" align="right">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=-Data_Engineering-FragmaData_Assignment_2017-TDD-followed&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
+   <a href="https://github.com/code0monkey1/-Data_Engineering-FragmaData_Assignment_2017-TDD-followed" align="left">
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=-Data_Engineering-FragmaData_Assignment_2017-TDD-followed&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
    </a>
 
   
