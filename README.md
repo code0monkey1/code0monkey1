@@ -54,6 +54,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
    <a href="https://jestjs.io/#:~:text=Jest%20is%20a%20JavaScript%20testing,extended%20to%20match%20your%20requirements." target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--S6Nn_hYs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fnnfif593kiswfmwwen.jpg" width="36" height="36" alt="Jest" /></a>
     <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://global-uploads.webflow.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" width="36" height="36" alt="GitHub Actions" /></a>
     <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"><img src="https://handlebarsjs.com/images/handlebars_logo.png" width="36" height="36" alt="HandleBars" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" width="36" height="36" alt="Docker" /></a>
 </p>
 
 
