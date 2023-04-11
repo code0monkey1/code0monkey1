@@ -23,9 +23,9 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 \- **Software Engineering Expert** 
 
- \-\-\-\-\-\-  
+ \-\-\-\-\-\-\-\-\-\-\-\-    
 [Source Link](https://bit.ly/3iTi5gZ)  
-\-\-\-\-\-\-  
+\-\-\-\-\-\-\-\-\-\-\-\-    
 
  ---------------------------------------------------
 
@@ -33,9 +33,9 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 ![Won In Competetion ](./competetion_latest.jpg " Inter university competetion champion ")
 
- --
- [Source Link](https://www.lbsim.ac.in/news/lbsim-organised-innotech-2016-on-march-05-2016/35 "link to competetion article" )
-
+\-\-\-\-\-\-\-\-\-\-\-\-    
+ [Source Link](https://www.lbsim.ac.in/news/lbsim-organised-innotech-2016-on-march-05-2016/35 "link to competetion article")   
+\-\-\-\-\-\-\-\-\-\-\-\-  
  ---------------------------------------------------
 
 ### Skills
