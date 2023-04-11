@@ -22,7 +22,8 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 <br/>
 
 ### *"Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all "*
-\- **Expert Software Engineer** 
+
+\- **Software Engineering Expert** 
 
  ---------------------------------------------------
 
