@@ -77,8 +77,6 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 ---
 
-#### 📊 Statistics
-
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-stats.vercel.app/api?username=code0monkey1&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="code0monkey1's GitHub stats" /></a>
 
 <br/>
