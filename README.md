@@ -81,6 +81,9 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-stats.vercel.app/api?username=code0monkey1&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="code0monkey1's GitHub stats" /></a>
 
+## 📊 Statistics
+[![Chiranjeev's github stats](https://github-readme-stats.vercel.app/api?username=code0monkey1&theme=light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code0monkey1&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <b>Top Repositories</b>
