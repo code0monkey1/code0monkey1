@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chiranjeev
 =========================================================================================================================================
 
-
 **`I'm a Full Stack Web Developer | StartUp Founder`**
---------------------------------------------------------------------------
 
 I've been coding for the past 5 years. I started as a Backend Java Engineer at dDriven (A startup in Bengaluru, India) and later went on to work as a Full Stack Web Developer ( M.E.R.N stack ) at 2 Tech Startups that I founded.
 
@@ -76,6 +74,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 <p align="left"> <a href="https://www.github.com/code0monkey1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chiranjeevthomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@chiranjeevthomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ChiranjivThomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="34" height="34" /></a></p>
 
+---
 
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-stats.vercel.app/api?username=code0monkey1&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="code0monkey1's GitHub stats" /></a>
 
