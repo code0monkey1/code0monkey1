@@ -69,7 +69,6 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
    <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank" rel="noreferrer" title="Clean Architecture"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220219214201/Clean-Architecture-in-Android.png" width="56" height="56" alt="Clean Architecture" /></a>
 </p>
 
----
 
 ### Socials
 
