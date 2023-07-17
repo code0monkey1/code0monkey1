@@ -69,12 +69,12 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
    <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank" rel="noreferrer" title="Clean Architecture"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220219214201/Clean-Architecture-in-Android.png" width="56" height="56" alt="Clean Architecture" /></a>
 </p>
 
+---
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/code0monkey1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chiranjeevthomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@chiranjeevthomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ChiranjivThomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="34" height="34" /></a></p>
 
----
 
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-stats.vercel.app/api?username=code0monkey1&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="code0monkey1's GitHub stats" /></a>
 
@@ -82,7 +82,6 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code0monkey1&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
----
 
 <b>Top Repositories</b>
 
