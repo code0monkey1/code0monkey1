@@ -69,6 +69,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
    <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank" rel="noreferrer" title="Clean Architecture"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220219214201/Clean-Architecture-in-Android.png" width="56" height="56" alt="Clean Architecture" /></a>
 </p>
 
+
 ---
 
 ### Socials
@@ -82,7 +83,9 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 <a href="http://www.github.com/code0monkey1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code0monkey1&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
+
 ---
+
 
 <b>Top Repositories</b>
 
