@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chiranjeev
 =========================================================================================================================================
 
-**`I'm a Full Stack Web Developer | StartUp Founder`**
+#### **`I'm a Full Stack Web Developer | StartUp Founder`** ####
 
 I've been coding for the past 5 years. I started as a Backend Java Engineer at dDriven (A startup in Bengaluru, India) and later went on to work as a Full Stack Web Developer ( M.E.R.N stack ) at 2 Tech Startups that I founded.
 
@@ -14,7 +14,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 --------------------------------------------------------------------------
 
-#### **`Top Endorsement on Indorse: ( Code Review )`** 
+**`Top Endorsement on Indorse: ( Code Review )`**
 
 ### *\" Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all \"*
 
