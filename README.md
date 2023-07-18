@@ -14,7 +14,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 --------------------------------------------------------------------------
 
-**`Top Endorsement on Indorse: ( Code Review )`**
+##### **`Top Endorsement on Indorse: ( Code Review )`**
 
 ### *\" Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all \"*
 
@@ -26,7 +26,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
  ---------------------------------------------------
 
-_`Represented College in Coding Competetion and Won Cash Prize`_
+##### **`Represented College in Coding Competetion and Won Cash Prize`**
 
 ![Won In Competetion ](./prize.jpg " Inter university competetion champion ")
 \-\-\-\-\-\-\-\-\-\-\-\-    
