@@ -26,7 +26,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
  ---------------------------------------------------
 
-**_Represented College in Coding Competetion and Won Cash Prize_**
+_`Represented College in Coding Competetion and Won Cash Prize`_
 
 ![Won In Competetion ](./prize.jpg " Inter university competetion champion ")
 \-\-\-\-\-\-\-\-\-\-\-\-    
