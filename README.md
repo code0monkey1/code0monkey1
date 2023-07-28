@@ -66,6 +66,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
   <a href="https://www.docker.com/" target="_blank"  title="Docker" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" width="46" height="42" alt="Docker" /></a>
    <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank" rel="noreferrer" title="Clean Architecture"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220219214201/Clean-Architecture-in-Android.png" width="56" height="56" alt="Clean Architecture" /></a>
     <a href="https://zod.dev/" target="_blank" rel="noreferrer" title="Zod Validation Library"><img src="https://zod.dev/logo.svg" width="56" height="56" alt="Zod Validation" /></a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer" title="Jest Testing Framework"><img src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" width="56" height="56" alt="Jest Testing Framework" /></a>
 </p>
 
 
