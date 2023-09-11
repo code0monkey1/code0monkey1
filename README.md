@@ -14,9 +14,9 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 --------------------------------------------------------------------------
 
-##### **`My Code Review Report :`** #####
+##### **`Top Comment from my Code Quality Review Report:`** #####
 
-### *\" Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all \"*
+### *\" Secure programming, defensive programming, functional programming, Test-driven development devote an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all \"*
 
  \- _Software Engineering Expert ( Indorse )_ 
 
