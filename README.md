@@ -18,7 +18,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 ### *\" Secure programming, defensive programming, functional programming, Test-driven development devote, an obvious critical analyzer, neat codes and cohesive abstractions, full-stack knowledge. He's got it all \"*
 
- \- _Software Engineering Expert_ 
+ \- _Software Engineering Expert ( Indorse )_ 
 
  ###### Indorse is a Skills Assessment Platform, where a panel of experts coming from all over the world review candidates on their software development skills. These code reviews are done either on candidates’ existing open source projects or on a particular assignment that our clients ask the candidates to undergo.
  
