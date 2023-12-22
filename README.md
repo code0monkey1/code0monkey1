@@ -20,7 +20,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
  \- _Software Engineering Expert ( Indorse )_ 
 
- ###### Indorse is a Skills Assessment Platform, where a panel of experts coming from all over the world review candidates on their software development skills. These code reviews are done either on candidates’ existing open source projects or on a particular assignment that our clients ask the candidates to undergo.
+ ###### Indorse is a Skills Assessment Platform, where a panel of experts coming from all over the world review candidates on their software development skills. These code reviews are done on candidates’ existing open-source projects or on a particular assignment that our clients ask the candidates to undergo.
  
 \-\-\-\-\-\-\-\-\-\-\-\-    
 [Source Link](https://bit.ly/3iTi5gZ)  
@@ -28,7 +28,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
  ---------------------------------------------------
 
-##### **`Represented College in Coding Competetionn: ( Won Cash Prize )`** #####
+##### **` Represented University in Coding Competitions: ( Won Cash Prize ) `** #####
 
 ![Won In Competetion ](./prize.jpg " Inter university competetion champion ")
 \-\-\-\-\-\-\-\-\-\-\-\-    
