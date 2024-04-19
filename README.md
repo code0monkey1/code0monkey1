@@ -23,7 +23,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
  ###### Indorse is a Skills Assessment Platform, where a panel of experts coming from all over the world review candidates on their software development skills. These code reviews are done on candidates’ existing open-source projects or on a particular assignment that our clients ask the candidates to undergo.
  
 
-[Source Link](https://bit.ly/3iTi5gZ)  
+[Source Link](https://bit.ly/3iTi5gZ){:target="_blank"}  
 
 
 
@@ -34,7 +34,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 ![Won In Competetion ](./prize.jpg " Inter university competetion champion ")
 
 
- [Source Link](https://www.lbsim.ac.in/news/lbsim-organised-innotech-2016-on-march-05-2016/35 "link to competetion article") 
+ [Source Link](https://www.lbsim.ac.in/news/lbsim-organised-innotech-2016-on-march-05-2016/35 "link to competetion article"){:target="_blank"}
  
 
  ---------------------------------------------------
