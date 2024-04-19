@@ -34,7 +34,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 ![Won In Competetion ](./prize.jpg " Inter university competetion champion ")
 
 
- [Source Link](https://www.lbsim.ac.in/news/lbsim-organised-innotech-2016-on-march-05-2016/35 "link to competetion article"){:target="_blank"}
+[Source Link](https://www.lbsim.ac.in/news/lbsim-organised-innotech-2016-on-march-05-2016/35 "link to competition article"){:target="_blank"}
  
 
  ---------------------------------------------------
