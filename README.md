@@ -111,8 +111,10 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 
 </div>
-<div align="left">
-  ![](https://komarev.com/ghpvc/?username=code0monkey1)
-</div>
+
+
+
 <br /><br /><br /><br /><br /><br /><br />
+
+![](https://hit.yhype.me/github/profile?user_id=code0monkey1)
 
