@@ -109,6 +109,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0monkey1&repo=-Data_Engineering-fragmaData2018&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en"/>
    </a>
 
- 
+ ![](https://komarev.com/ghpvc/?username=code0monkey1)
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+
