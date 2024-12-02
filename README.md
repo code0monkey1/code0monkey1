@@ -14,8 +14,8 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 <img 
     alt="Cat" 
-    width="250" 
-    height="200" 
+    width="350" 
+    height="300" 
     src="https://i.makeagif.com/media/2-11-2018/Tp5qUf.gif"
   />
 
