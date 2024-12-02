@@ -12,7 +12,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial )
 * ⚡  I love CATS ! ! 🐱
 
-<iframe src="https://giphy.com/embed/fAT2Db0j0Mblu" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-watching-fAT2Db0j0Mblu">via GIPHY</a></p>
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd3cWRiNTNsZjloZmp2aTZoZnhkNTN0NnY2cXM1Y2N1Y3liemFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAT2Db0j0Mblu/giphy.webp
 
 --------------------------------------------------------------------------
 
