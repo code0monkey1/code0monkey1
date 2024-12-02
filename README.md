@@ -10,13 +10,14 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * 🚀  I'm currently working on [DevReferral](http://www.devreferral.com)
 * 🧠  I'm build my projects using MongoDb | Next.Js | Express | React | Node.js
 * 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial )
-* ⚡  I love CATS ! ❤️ 🐱  <img 
+* ⚡  I love CATS ! ❤️ 🐱
+
+<img 
     alt="Cat" 
     width="350" 
     height="200" 
     src="https://i.makeagif.com/media/2-11-2018/Tp5qUf.gif"
   />
-
 
 --------------------------------------------------------------------------
 
