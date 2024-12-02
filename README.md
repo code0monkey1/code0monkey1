@@ -12,9 +12,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial )
 * ⚡  I love CATS, and cats love me ! ! ❤️ 🐱 
 
-<br/>
- <img  alt="Cat" width="400" height="200" src="https://i.makeagif.com/media/2-11-2018/Tp5qUf.gif">
-<br/>
+ <img  alt="Cat" width="400" height="300" src="https://i.makeagif.com/media/2-11-2018/Tp5qUf.gif">
 
 --------------------------------------------------------------------------
 
