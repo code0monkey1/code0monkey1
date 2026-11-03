@@ -7,7 +7,7 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  Read my Blog : [Chiranjeev's Blog](http://www.chiranjeevthomas.com)
-* 🚀  I'm currently working on [Grabbit]([http://www.devreferral.com](https://gograbbit.in/))
+* 🚀  I'm currently working on [Grabbit]([http://www.devreferral.com](https://gograbbit.in)
 * ⚡  I love CATS ! ❤️ 🐱
 
 
