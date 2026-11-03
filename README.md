@@ -8,8 +8,6 @@ I've been coding for the past 5 years. I started as a Backend Java Engineer at d
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  Read my Blog : [Chiranjeev's Blog](http://www.chiranjeevthomas.com)
 * 🚀  I'm currently working on [DevReferral](http://www.devreferral.com)
-* 🧠  I build my projects using AWS | Next.Js | Express | React | Node.js | Python | Agentic AI 
-* 🤝  I'm open to collaborating on M.E.R.N Projects ( Commercial )
 * ⚡  I love CATS ! ❤️ 🐱
 
 
